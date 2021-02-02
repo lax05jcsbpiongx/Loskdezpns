@@ -1,0 +1,31 @@
+.hel{
+    text-align:center;
+       
+}
+
+.topnav{
+    background-color: chartreuse;
+    overflow: hidden;
+}
+.topnav a{
+    color: rgb(20, 3, 246);
+    padding: 15px 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+.topnav a:hover{
+    color: red;
+
+}
+.topnav a:active{
+    background-color: rgb(255, 0, 221);
+    color:rgb(60, 0, 255);
+
+}
+
+.kn:hover{
+    background-color:brown;
+}
